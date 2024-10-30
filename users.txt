@@ -1,0 +1,16 @@
+{"user_id": 7163028849, "plan": 3, "valid_until": "2024-11-13", "access_count": 0}
+{"user_id": 1970192536, "plan": 3, "valid_until": "2024-10-19", "access_count": 0}
+{"user_id": 602418303, "plan": 3, "valid_until": "2024-10-19", "access_count": 0}
+{"user_id": 6967305090, "plan": 0, "valid_until": "2024-10-25", "access_count": 0}
+{"user_id": 6967305090, "plan": 1, "valid_until": "2052-03-11", "access_count": 0}
+{"user_id": 7438783398, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 6722690779, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 6385797900, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 7002022902, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 7748558184, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 7144644299, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 7438783398, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 7399396788, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 6332916546, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 6591201189, "plan": 1, "valid_until": "2024-11-24", "access_count": 0}
+{"user_id": 7017497757, "plan": 1, "valid_until": "2049-02-24", "access_count": 0}
